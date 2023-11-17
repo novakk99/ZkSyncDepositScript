@@ -1,4 +1,4 @@
-# ZkSyncDepositScript
+# ZkSyncDepositScript 
 This script demonstrates how to deposit funds from Ethereum to ZkSync using the ZkSync JavaScript library
 const { ethers } = require("ethers");
 const { Wallet, getDefaultProvider } = require("zksync");
